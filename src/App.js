@@ -15,7 +15,7 @@ function App() {
       {/* <img src={bg} alt="" className=" w-[900px] blur"></img> */}
       <div className="absolute top-0 left-0 w-full h-full bgCol1 opacity-50"></div>
 
-      <div className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2  text-center z-10">
+      <div className="w-full fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2  text-center z-10">
         <h1 className="myFont md:text-3xl sm:text-2xl text-xl md:mb-8 mb-3 font-bold text-white">
           Coming Soon
         </h1>
