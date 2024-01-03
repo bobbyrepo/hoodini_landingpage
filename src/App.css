@@ -1,15 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Work+Sans:wght@500&display=swap');
 
 .bgCol1{
-background-color: #302d2a;
+background-color: #EAE5DD;
 }
 
 .myFont{
     font-family: 'Press Start 2P';
+    color: rgb(29, 29, 29);
 }
-  .myFont1{
+.myFont1{
     font-family: 'Work Sans';
-  }
+    color: rgb(54, 54, 54);
+}
 
 .blur {
 filter: blur(2px);
