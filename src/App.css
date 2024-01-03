@@ -7,6 +7,9 @@ background-color: #302d2a;
 .myFont{
     font-family: 'Press Start 2P';
 }
+  .myFont1{
+    font-family: 'Work Sans';
+  }
 
 .blur {
 filter: blur(2px);
