@@ -5,6 +5,9 @@ background-color: #EAE5DD;
 }
 .bgCol2{
     background-color: #E2DBD1;
+}
+button:hover{
+    background-color: #cfc7bc;
    }
 
 .myFont{
